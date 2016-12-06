@@ -1,0 +1,5 @@
+#opt_parser
+
+Little parser to parse command line arguments and fill a structure with it.
+
+See opt_parser_example to see how to use it
